@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Sumukh Venkatesh
+I am a high school student at Evergreen Valley High School
 
 ## Research Interests
 
