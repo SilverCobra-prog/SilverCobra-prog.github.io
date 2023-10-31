@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a high school student at Evergreen Valley High School
+I am a high school student at Evergreen Valley High School. Aspiring computer science + public policy major interested in the intersection of policy making, geography, history, machine learning and data science.
 
 ## Research Interests
 
