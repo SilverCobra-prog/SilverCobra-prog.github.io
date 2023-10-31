@@ -2,56 +2,56 @@ main:
 
   - title: Analyzing Healthcare Coverage in the United States Using Multivariate Machine Learning Models
     authors: Sumukh Venkatesh*, Hongseok Namkoong (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    conference_short: ICHIH
+    conference: International Conference on Health Big Data and Intelligent Healthcare (ICHIH), 2023.
+    pdf: https://drive.google.com/file/d/1RU7JDYYjq4kFXOMF--zW0L73XFgBRTlp/view?usp=drive_link
+    code: https://github.com/SilverCobra-prog/healthcare_cov_model
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Presented, in perss
 
   - title: "SMPNet: An Algorithmic Framework for Loneliness Detection and Mitigation in Social Media"
     authors: Sumukh Venkatesh, Jack Yin*, Grace Sng, Raghav Aggarawal, Weiguo Fan, Chengyue Huang, Ling Tong
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    conference_short: URTC
+    conference: IEEE MIT Undergraduate Research Technology Conference (URTC), 2023.
+    pdf: https://drive.google.com/file/d/1MGsSumcILvTPWgIFG0-7JBJDumxzFdI0/view?usp=drive_link
+    code: https://github.com/SilverCobra-prog/sstp_loneliness_classifiers
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
   - title: Classification of Maternal Health Risks Using Machine Learning Methods	
     authors: Sumukh Venkatesh, Himani Jha*, Sohail Zaidi, Farwa Kazmi
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    conference_short: EHB
+    conference: International Conference on e-Health and Bioengineering (EHB), 2023.
+    pdf: https://drive.google.com/file/d/1eg9cv_d0UPntJIX_VBqQmINAYeFPjjg5/view?usp=drive_link
+    code: https://github.com/SilverCobra-prog/maternal_health_classifier
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
   - title: "Deep Learning for Lung Cancer Diagnosis: Leveraging CNNs for Accurate Classification and Early Detection"
     authors: Sumukh Venkatesh, Rashmi Ramachandra*
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    conference_short: JEI
+    conference: Journal of Emerging Investigators.
+    pdf: https://drive.google.com/file/d/17yHUANZSFSfo4fpu298sBPvjBXtoN3hd/view?usp=drive_link
+    code: https://github.com/SilverCobra-prog/lung_cancer_cnn
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Accepted pending edits
 
   - title: Predicting Grants for Hurricane Affected Homeowners Using Machine Learning Methods
     authors: Sumukh Venkatesh*, Sohail Zaidi
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    conference_short: IFoRE
+    conference: International Forum on Research Excellence (IFoRE), powered by Sigma Xi (IFoRE), 2023.
+    pdf: https://drive.google.com/file/d/1h9qhkPEnHMxBbbveqiZigycUPvgpJPP-/view?usp=drive_link
+    code: https://github.com/SilverCobra-prog/grant-prediction
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Poster, Early Accept 
 
   - title: "ClimateSafeHomes: Using Machine Learning to Predict Home Price Changes Due to Climate Change"
     authors: Sumukh Venkatesh, Rishit Agrawal*, Prajwal Vandana
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    conference_short: CAI
+    conference: IEEE Conference on Artificial Intelligence (CAI), 2024.
+    pdf: httpshttps://drive.google.com/file/d/19qWoxFXQn2ZR3SSAOxgfwUYy_47KeCan/view?usp=drive_link
+    code: https://github.com/SilverCobra-prog/climate_house_price
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Submitted - Preprint releasing after accepted noted to prevent plagarism
 
 
