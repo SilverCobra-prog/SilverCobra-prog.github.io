@@ -1,54 +1,54 @@
 main:
 
   - title: Analyzing Healthcare Coverage in the United States Using Multivariate Machine Learning Models
-    authors: <strong>Sumukh Venkatesh*<strong>, Hongseok Namkoong (*Corresponding authors)
+    authors: Sumukh Venkatesh*, Hongseok Namkoong (*Corresponding authors)
     conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
   - title: "SMPNet: An Algorithmic Framework for Loneliness Detection and Mitigation in Social Media"
-    authors: <strong>Sumukh Venkatesh<strong>, Jack Yin*, Grace Sng, Raghav Aggarawal, Weiguo Fan, Chengyue Huang, Ling Tong
+    authors: Sumukh Venkatesh, Jack Yin*, Grace Sng, Raghav Aggarawal, Weiguo Fan, Chengyue Huang, Ling Tong
     conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
   - title: Classification of Maternal Health Risks Using Machine Learning Methods	
-    authors: <strong>Sumukh Venkatesh<strong>, Himani Jha*, Sohail Zaidi, Farwa Kazmi
+    authors: Sumukh Venkatesh, Himani Jha*, Sohail Zaidi, Farwa Kazmi
     conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
   - title: "Deep Learning for Lung Cancer Diagnosis: Leveraging CNNs for Accurate Classification and Early Detection"
-    authors: <strong>Sumukh Venkatesh<strong>, Rashmi Ramachandra*
+    authors: Sumukh Venkatesh, Rashmi Ramachandra*
     conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
   - title: Predicting Grants for Hurricane Affected Homeowners Using Machine Learning Methods
-    authors: <strong>Sumukh Venkatesh*<strong>, Sohail Zaidi
+    authors: Sumukh Venkatesh*, Sohail Zaidi
     conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
   - title: "ClimateSafeHomes: Using Machine Learning to Predict Home Price Changes Due to Climate Change"
-    authors: <strong>Sumukh Venkatesh<strong>, Rishit Agrawal*, Prajwal Vandana
+    authors: Sumukh Venkatesh, Rishit Agrawal*, Prajwal Vandana
     conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/teaser_example_2.png
