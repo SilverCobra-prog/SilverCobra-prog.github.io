@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Gigh school student at Evergreen Valley High School. Aspiring computer science + public policy major interested in the intersection of policy making, geography, history, machine learning and data science.
+High school student at Evergreen Valley High School. Aspiring computer science + public policy major interested in the intersection of policy making, geography, history, machine learning and data science.
 
 ## Research Interests
 
