@@ -19,7 +19,7 @@ main:
     notes: Early Accept
 
   - title: Classification of Maternal Health Risks Using Machine Learning Methods	
-    authors: <strong>Sumukh Venkatesh<strong>, Himani Jha*, Sohail Zaidi, Farwa Kazmi (*Corresponding authors)
+    authors: <strong>Sumukh Venkatesh<strong>, Himani Jha*, Sohail Zaidi, Farwa Kazmi
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -28,7 +28,7 @@ main:
     notes: Early Accept
 
   - title: "Deep Learning for Lung Cancer Diagnosis: Leveraging CNNs for Accurate Classification and Early Detection"
-    authors: <strong>Sumukh Venkatesh<strong>, Rashmi Ramachandra* (*Corresponding authors)
+    authors: <strong>Sumukh Venkatesh<strong>, Rashmi Ramachandra*
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -37,7 +37,7 @@ main:
     notes: Early Accept
 
   - title: Predicting Grants for Hurricane Affected Homeowners Using Machine Learning Methods
-    authors: <strong>Sumukh Venkatesh*<strong>, Sohail Zaidi (*Corresponding authors)
+    authors: <strong>Sumukh Venkatesh*<strong>, Sohail Zaidi
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
