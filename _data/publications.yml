@@ -7,7 +7,7 @@ main:
     pdf: https://drive.google.com/file/d/1RU7JDYYjq4kFXOMF--zW0L73XFgBRTlp/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/healthcare_cov_model
     image: ./assets/img/Screenshot 2023-10-30 222637.png
-    notes: Early Accept
+    notes: Early Accept, had to withdraw due to payment issues
 
   - title: "SMPNet: An Algorithmic Framework for Loneliness Detection and Mitigation in Social Media"
     authors: Sumukh Venkatesh, Jack Yin*, Grace Sng, Raghav Aggarawal, Weiguo Fan, Chengyue Huang, Ling Tong
@@ -25,7 +25,7 @@ main:
     pdf: https://drive.google.com/file/d/1eg9cv_d0UPntJIX_VBqQmINAYeFPjjg5/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/maternal_health_classifier
     image: ./assets/img/Screenshot 2023-10-30 222213.png
-    notes: Early Accept, had to withdraw due to payment issues
+    notes: Early Accept
 
   - title: "Deep Learning for Lung Cancer Diagnosis: Leveraging CNNs for Accurate Classification and Early Detection"
     authors: Sumukh Venkatesh, Rashmi Ramachandra*
