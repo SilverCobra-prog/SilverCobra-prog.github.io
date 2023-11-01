@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-High school student at Evergreen Valley High School. Student researcher interested in the intersection of public policy, geography, history, machine learning, and data science.
+High school student at Evergreen Valley High School. Interned at Columbia Business School, the University of Illinois, the University of Iowa, and San Jose State University.
 
 ## Research Interests
 
