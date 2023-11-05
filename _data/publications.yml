@@ -3,7 +3,7 @@ main:
   - title: Analyzing Healthcare Coverage in the United States Using Multivariate Machine Learning Models
     authors: Sumukh Venkatesh* (*Corresponding author)
     conference_short: ICAICA
-    conference: International Conference on Artificial Intelligence and Computer Applications (ICAICA), 2023.
+    conference: IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA), 2023.
     pdf: https://drive.google.com/file/d/17WwzyJTQHJqg2e32iUeimWYGZ11-ciMQ/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/healthcare_cov_model
     image: ./assets/img/Screenshot 2023-10-30 222637.png
@@ -21,7 +21,7 @@ main:
   - title: Classification of Maternal Health Risks Using Machine Learning Methods	
     authors: Sumukh Venkatesh, Himani Jha*, Sohail Zaidi, Farwa Kazmi
     conference_short: EHB
-    conference: International Conference on e-Health and Bioengineering (EHB), 2023.
+    conference: Springer International Conference on e-Health and Bioengineering (EHB), 2023.
     pdf: https://drive.google.com/file/d/1eg9cv_d0UPntJIX_VBqQmINAYeFPjjg5/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/maternal_health_classifier
     image: ./assets/img/Screenshot 2023-10-30 222213.png
