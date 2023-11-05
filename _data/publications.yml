@@ -2,12 +2,12 @@ main:
 
   - title: Analyzing Healthcare Coverage in the United States Using Multivariate Machine Learning Models
     authors: Sumukh Venkatesh* (*Corresponding author)
-    conference_short: ICHIH
-    conference: International Conference on Health Big Data and Intelligent Healthcare (ICHIH), 2023.
+    conference_short: ICAICA
+    conference: International Conference on Artificial Intelligence and Computer Applications (ICAICA), 2023.
     pdf: https://drive.google.com/file/d/17WwzyJTQHJqg2e32iUeimWYGZ11-ciMQ/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/healthcare_cov_model
     image: ./assets/img/Screenshot 2023-10-30 222637.png
-    notes: Early Accept, had to withdraw due to payment issues
+    notes: Early Accept
 
   - title: "SMPNet: An Algorithmic Framework for Loneliness Detection and Mitigation in Social Media"
     authors: Sumukh Venkatesh, Jack Yin*, Grace Sng, Raghav Aggarawal, Weiguo Fan, Chengyue Huang, Ling Tong
@@ -53,5 +53,3 @@ main:
     code: https://github.com/SilverCobra-prog/climate_house_price
     image: ./assets/img/Screenshot 2023-10-30 222333.png
     notes: Submitted
-
-
