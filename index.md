@@ -13,7 +13,7 @@ High school student at Evergreen Valley High School. Interned at Columbia Busine
 - **Natural Language Processing** 
 - **Deep Learning** 
 - **Public Policy** 
-- **Computaitonal Biology** 
+- **Computational Biology** 
 
 ## News
 - **[Nov. 2023]** After some payment issues, we resubmited our IEEE ICHIH paper to IEEE ICAICA.
