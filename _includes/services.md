@@ -6,4 +6,4 @@ I am currently working with Dr. Jodi Schneider on a project that analyzes the li
 
 <h4>Department of Mechanical Engineering, SJSU</h4>
 
-I will be working with Dr. Sohail Zaidi on making the poster I completed on analyzing hurricane grant distribution using ML into a research paper. We hope to begin this after recieving feedback at the IFoRE conference on November 10–12, 2023. 
+I will be working with Dr. Sohail Zaidi on making the poster I completed on analyzing hurricane grant distribution using ML into a research paper. We have began the process of formally writing a research paper. 
