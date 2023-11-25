@@ -16,7 +16,9 @@ High school student at Evergreen Valley High School. Interned at Columbia Busine
 - **Computaitonal Biology** 
 
 ## News
-
+- **[Nov. 2023]** After some payment issues, we resubmited our IEEE ICHIH paper to IEEE ICAICA.
+- **[Nov. 2023]** We presented our poster at Sigma Xi IFoRE.
+- **[Nov. 2023]** We presented at Springer EHB.
 - **[Oct. 2023]** Our papers are accepted to IEEE ICHIH & Springer EHB.
 - **[Oct. 2023]** We presented at IEEE MIT URTC.
 - **[Sep. 2023]** Our poster is accepted to Sigma Xi IFoRE.
