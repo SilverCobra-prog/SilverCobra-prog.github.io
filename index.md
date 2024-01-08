@@ -8,11 +8,13 @@ High school student at Evergreen Valley High School. Interned at Columbia Busine
 
 ## Research Interests
 
+- **Public Policy**
+- **Sociology** 
+- **Social Analysis** 
 - **Computer Vision**
 - **Machine Learning**
-- **Natural Language Processing** 
 - **Deep Learning** 
-- **Public Policy** 
+- **Natural Language Processing** 
 - **Computational Biology** 
 
 ## News
