@@ -20,6 +20,7 @@ High school student at Evergreen Valley High School. Research intern at Columbia
 ## News
 - **[Feb. 2024]** We submittted our short paper to the IEEE ISEC.
 - **[Jan. 2024]** Our paper is accepted for publication in the Journal of Emerging Investigators.
+- **[Nov. 2023]** We presented our paper at IEEE ICAICA.
 - **[Nov. 2023]** My paper was accepted at IEEE ICAICA.
 - **[Nov. 2023]** After some payment issues, I resubmited my IEEE ICHIH paper to IEEE ICAICA.
 - **[Nov. 2023]** We presented our poster at Sigma Xi IFoRE.
