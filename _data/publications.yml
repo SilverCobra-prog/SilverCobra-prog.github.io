@@ -3,11 +3,12 @@ main:
   - title: Analyzing Healthcare Coverage in the United States Using Multivariate Machine Learning Models
     authors: Sumukh Venkatesh* (*Corresponding author)
     conference_short: ICAICA
-    conference: IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA), 2023.
+    conference: 5th IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA), 2023.
     pdf: https://drive.google.com/file/d/17WwzyJTQHJqg2e32iUeimWYGZ11-ciMQ/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/healthcare_cov_model
+    doi: https://doi.org/10.1109/ICAICA58456.2023.10405550
     image: ./assets/img/Screenshot 2023-10-30 222637.png
-    notes: Presented, in Press
+    notes: Presented, published
 
   - title: "SMPNet: An Algorithmic Framework for Loneliness Detection and Mitigation in Social Media"
     authors: Sumukh Venkatesh, Jack Yin*, Grace Sng, Raghav Aggarawal, Weiguo Fan, Chengyue Huang, Ling Tong
