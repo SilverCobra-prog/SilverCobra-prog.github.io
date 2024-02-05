@@ -37,17 +37,17 @@ main:
     pdf: https://drive.google.com/file/d/17yHUANZSFSfo4fpu298sBPvjBXtoN3hd/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/lung_cancer_cnn
     image: ./assets/img/Screenshot 2023-10-30 222155.png
-    notes: Accepted pending edits
+    notes: Accepted, in press
 
   - title: Predicting Grants for Hurricane Affected Homeowners Using Machine Learning Methods
     authors: Sumukh Venkatesh*, Sohail Zaidi
-    conference_short: IFoRE
-    conference: International Forum on Research Excellence, powered by Sigma Xi (IFoRE), 2023.
+    conference_short: IFoRE / ISEC
+    conference: International Forum on Research Excellence, powered by Sigma Xi (IFoRE), 2023 & 14th IEEE Integrated STEM Education Conference, 2024.
     pdf: https://drive.google.com/file/d/1h9qhkPEnHMxBbbveqiZigycUPvgpJPP-/view?usp=drive_link
     poster: https://drive.google.com/file/d/1RSVp3gbI8Gm7MXwm7TQ7P_-qiS5L57n7/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/grant-prediction
     image: ./assets/img/Screenshot 2023-10-30 222836.png
-    notes: Poster, Presented 
+    notes: Poster, Presented & Paper Submitted, In Press
 
   - title: "ClimateSafeHomes: Using Machine Learning to Predict Home Price Changes Due to Climate Change"
     authors: Sumukh Venkatesh, Rishit Agrawal*, Prajwal Vandana
