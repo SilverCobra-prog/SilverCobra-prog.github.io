@@ -18,6 +18,8 @@ High school student at Evergreen Valley High School. Interned at Columbia Busine
 - **Computational Biology** 
 
 ## News
+- **[Nov. 2023]** We submittted our short paper to the IEEE ISEC.
+- **[Jan. 2023]** Our paper is accepted for publication in the Journal of Emerging Investigators.
 - **[Nov. 2023]** My paper was accepted at IEEE ICAICA.
 - **[Nov. 2023]** After some payment issues, I resubmited my IEEE ICHIH paper to IEEE ICAICA.
 - **[Nov. 2023]** We presented our poster at Sigma Xi IFoRE.
@@ -26,7 +28,7 @@ High school student at Evergreen Valley High School. Interned at Columbia Busine
 - **[Oct. 2023]** We presented at IEEE MIT URTC.
 - **[Sep. 2023]** Our poster is accepted to Sigma Xi IFoRE.
 - **[Sep. 2023]** Our paper is accepted to IEEE MIT URTC.
-- **[Aug. 2023]** Our paper is accepted to Journal of Emerging Investigators.
+- **[Aug. 2023]** Our paper is accepted pending edits in the Journal of Emerging Investigators.
 
 {% include_relative _includes/publications.md %}
 
