@@ -11,7 +11,7 @@ main:
     notes: Presented, published
 
   - title: "SMPNet: An Algorithmic Framework for Loneliness Detection and Mitigation in Social Media"
-    authors: Sumukh Venkatesh, Jack Yin*, Grace Sng, Raghav Aggarawal, Weiguo Fan, Chengyue Huang, Ling Tong
+    authors: Sumukh Venkatesh*, Jack Yin, Grace Sng, Raghav Aggarawal, Weiguo Fan, Chengyue Huang, Ling Tong
     conference_short: URTC
     conference: IEEE MIT Undergraduate Research Technology Conference (URTC), 2023.
     pdf: https://drive.google.com/file/d/1MGsSumcILvTPWgIFG0-7JBJDumxzFdI0/view?usp=drive_link
@@ -50,7 +50,7 @@ main:
     notes: Poster, Presented & Paper Accepted, In Press
 
   - title: "ClimateSafeHomes: Using Machine Learning to Predict Home Price Changes Due to Climate Change"
-    authors: Sumukh Venkatesh, Rishit Agrawal*, Prajwal Vandana
+    authors: Sumukh Venkatesh*, Rishit Agrawal, Prajwal Vandana
     conference_short: CAI
     conference: IEEE Conference on Artificial Intelligence (CAI), 2024.
     pdf: https://drive.google.com/file/d/19qWoxFXQn2ZR3SSAOxgfwUYy_47KeCan/view?usp=drive_link
