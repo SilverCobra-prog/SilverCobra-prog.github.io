@@ -10,4 +10,4 @@ I have finished working with Dr. Sohail Zaidi on writing a paper analyzing hurri
 
 <h4>Belin-Blank Center, University of Iowa</h4>
 
-I have been restarted working on my loneliness project, and have been trying to develop models that can connect two lonely people who have similar interests using NLP and expanding the conference paper into a journal paper. 
+We have restarted working on our loneliness project, and have been trying to develop models that can connect two lonely people who have similar interests using NLP and expanding the conference paper into a journal paper. 
