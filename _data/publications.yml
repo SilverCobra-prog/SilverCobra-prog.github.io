@@ -53,7 +53,7 @@ main:
     authors: Sumukh Venkatesh, Rishit Agrawal*, Prajwal Vandana
     conference_short: CAI
     conference: IEEE Conference on Artificial Intelligence (CAI), 2024.
-    pdf: httpshttps://drive.google.com/file/d/19qWoxFXQn2ZR3SSAOxgfwUYy_47KeCan/view?usp=drive_link
+    pdf: https://drive.google.com/file/d/19qWoxFXQn2ZR3SSAOxgfwUYy_47KeCan/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/climate_house_price
     image: ./assets/img/Screenshot 2023-10-30 222333.png
     notes: Submitted
