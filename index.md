@@ -18,6 +18,7 @@ High school student at Evergreen Valley High School. Research intern at Columbia
 - **Computational Biology** 
 
 ## News
+- **[Feb. 2024]** Our paper has been accepted to the IEEE ISEC.
 - **[Feb. 2024]** We submittted our short paper to the IEEE ISEC.
 - **[Jan. 2024]** Our paper is accepted for publication in the Journal of Emerging Investigators.
 - **[Nov. 2023]** We presented our paper at IEEE ICAICA.
