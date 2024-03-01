@@ -43,11 +43,11 @@ main:
     authors: Sumukh Venkatesh*, Sohail Zaidi
     conference_short: IFoRE / ISEC
     conference: International Forum on Research Excellence, powered by Sigma Xi (IFoRE), 2023 & 14th IEEE Integrated STEM Education Conference, 2024.
-    pdf: https://drive.google.com/file/d/1h9qhkPEnHMxBbbveqiZigycUPvgpJPP-/view?usp=drive_link
+    pdf: https://docs.google.com/document/d/1-YLwmtGLWTJQg-zO0YYaVY9r0Frx6qPv/edit?usp=drive_link&ouid=109053110960165793253&rtpof=true&sd=true
     poster: https://drive.google.com/file/d/1RSVp3gbI8Gm7MXwm7TQ7P_-qiS5L57n7/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/grant-prediction
     image: ./assets/img/Screenshot 2023-10-30 222836.png
-    notes: Poster, Presented & Paper Submitted, In Press
+    notes: Poster, Presented & Paper Accepted, In Press
 
   - title: "ClimateSafeHomes: Using Machine Learning to Predict Home Price Changes Due to Climate Change"
     authors: Sumukh Venkatesh, Rishit Agrawal*, Prajwal Vandana
