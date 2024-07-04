@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-High school student at Evergreen Valley High School. Research intern at Columbia Business School, the University of Illinois, the University of Iowa, and San Jose State University.
+Freshman at Carnegie Mellon University studying computer science and logic. Previously a research intern at Columbia Business School, the University of Illinois, the University of Iowa, and San Jose State University.
 
 ## Research Interests
 
