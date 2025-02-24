@@ -27,9 +27,10 @@ main:
     conference: Springer International Conference on e-Health and Bioengineering (EHB), 2023.
     pdf: https://drive.google.com/file/d/1eg9cv_d0UPntJIX_VBqQmINAYeFPjjg5/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/maternal_health_classifier
+    doi: https://doi.org/10.1007/978-3-031-62502-2_91
     presentation: https://docs.google.com/presentation/d/1bXq2pYWYSe_z7p3Q669cQxVpkyYRXlNW/edit?usp=sharing&ouid=109053110960165793253&rtpof=true&sd=true
     image: ./assets/img/Screenshot 2023-10-30 222213.png
-    notes: Presented, in Press
+    notes: Presented, published
 
   - title: "Deep Learning for Lung Cancer Diagnosis: Leveraging CNNs for Accurate Classification and Early Detection"
     authors: Sumukh Venkatesh, Rashmi Ramachandra*
@@ -48,7 +49,7 @@ main:
     poster: https://drive.google.com/file/d/1RSVp3gbI8Gm7MXwm7TQ7P_-qiS5L57n7/view?usp=drive_link
     code: https://github.com/SilverCobra-prog/grant-prediction
     image: ./assets/img/Screenshot 2023-10-30 222836.png
-    notes: Poster, Presented & Paper Accepted, In Press
+    notes: Poster, Presented
 
   - title: "ClimateSafeHomes: Using Machine Learning to Predict Home Price Changes Due to Climate Change"
     authors: Sumukh Venkatesh*, Rishit Agrawal, Prajwal Vandana
