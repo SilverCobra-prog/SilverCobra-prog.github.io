@@ -32,15 +32,6 @@ main:
     image: ./assets/img/Screenshot 2023-10-30 222213.png
     notes: Presented, published
 
-  - title: "Deep Learning for Lung Cancer Diagnosis: Leveraging CNNs for Accurate Classification and Early Detection"
-    authors: Sumukh Venkatesh, Rashmi Ramachandra*
-    conference_short: JEI
-    conference: Journal of Emerging Investigators.
-    pdf: https://drive.google.com/file/d/17yHUANZSFSfo4fpu298sBPvjBXtoN3hd/view?usp=drive_link
-    code: https://github.com/SilverCobra-prog/lung_cancer_cnn
-    image: ./assets/img/Screenshot 2023-10-30 222155.png
-    notes: Accepted, in press
-
   - title: Predicting Grants for Hurricane Affected Homeowners Using Machine Learning Methods
     authors: Sumukh Venkatesh*, Sohail Zaidi
     conference_short: IFoRE / ISEC
@@ -51,11 +42,11 @@ main:
     image: ./assets/img/Screenshot 2023-10-30 222836.png
     notes: Poster, Presented
 
-  - title: "ClimateSafeHomes: Using Machine Learning to Predict Home Price Changes Due to Climate Change"
-    authors: Sumukh Venkatesh*, Rishit Agrawal, Prajwal Vandana
-    conference_short: CAI
-    conference: IEEE Conference on Artificial Intelligence (CAI), 2024.
-    pdf: https://drive.google.com/file/d/19qWoxFXQn2ZR3SSAOxgfwUYy_47KeCan/view?usp=drive_link
-    code: https://github.com/SilverCobra-prog/climate_house_price
-    image: ./assets/img/Screenshot 2023-10-30 222333.png
-    notes: Submitted
+    - title: "Deep Learning for Lung Cancer Diagnosis: Leveraging CNNs for Accurate Classification and Early Detection"
+    authors: Sumukh Venkatesh, Rashmi Ramachandra*
+    conference_short: JEI
+    conference: Journal of Emerging Investigators.
+    pdf: https://drive.google.com/file/d/17yHUANZSFSfo4fpu298sBPvjBXtoN3hd/view?usp=drive_link
+    code: https://github.com/SilverCobra-prog/lung_cancer_cnn
+    image: ./assets/img/Screenshot 2023-10-30 222155.png
+    notes: Accepted, in press
