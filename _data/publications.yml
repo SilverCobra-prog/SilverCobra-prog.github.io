@@ -42,7 +42,7 @@ main:
     image: ./assets/img/Screenshot 2023-10-30 222836.png
     notes: Poster, Presented
 
-    - title: "Deep Learning for Lung Cancer Diagnosis: Leveraging CNNs for Accurate Classification and Early Detection"
+  - title: "Deep Learning for Lung Cancer Diagnosis: Leveraging CNNs for Accurate Classification and Early Detection"
     authors: Sumukh Venkatesh, Rashmi Ramachandra*
     conference_short: JEI
     conference: Journal of Emerging Investigators.
